@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/73/trunk/src/org/swiftp
+END
+CmdMKD.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/59/trunk/src/org/swiftp/CmdMKD.java
+END
+ProxyDataSocketInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/60/trunk/src/org/swiftp/ProxyDataSocketInfo.java
+END
+CmdCWD.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/59/trunk/src/org/swiftp/CmdCWD.java
+END
+CmdMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/59/trunk/src/org/swiftp/CmdMap.java
+END
+CmdFEAT.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/59/trunk/src/org/swiftp/CmdFEAT.java
+END
+CmdAbstractStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/68/trunk/src/org/swiftp/CmdAbstractStore.java
+END
+CmdNLST.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/64/trunk/src/org/swiftp/CmdNLST.java
+END
+CmdTYPE.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/59/trunk/src/org/swiftp/CmdTYPE.java
+END
+WidgetUiUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/73/trunk/src/org/swiftp/WidgetUiUpdater.java
+END
+CmdAPPE.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/trunk/src/org/swiftp/CmdAPPE.java
+END
+DataSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/59/trunk/src/org/swiftp/DataSocketFactory.java
+END
+CmdSTOR.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/trunk/src/org/swiftp/CmdSTOR.java
+END
+SessionThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/68/trunk/src/org/swiftp/SessionThread.java
+END
+UiUpdateClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/59/trunk/src/org/swiftp/UiUpdateClient.java
+END
+CmdAbstractListing.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/68/trunk/src/org/swiftp/CmdAbstractListing.java
+END
+NormalDataSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/68/trunk/src/org/swiftp/NormalDataSocketFactory.java
+END
+Globals.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/trunk/src/org/swiftp/Globals.java
+END
+ServerControlActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/64/trunk/src/org/swiftp/ServerControlActivity.java
+END
+WifiStateReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/trunk/src/org/swiftp/WifiStateReceiver.java
+END
+ProxyConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/64/trunk/src/org/swiftp/ProxyConnector.java
+END
+TcpListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/60/trunk/src/org/swiftp/TcpListener.java
+END
+CmdPASV.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/68/trunk/src/org/swiftp/CmdPASV.java
+END
+CmdDELE.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/59/trunk/src/org/swiftp/CmdDELE.java
+END
+CmdLIST.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/68/trunk/src/org/swiftp/CmdLIST.java
+END
+CmdTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/59/trunk/src/org/swiftp/CmdTemplate.java
+END
+CmdNOOP.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/59/trunk/src/org/swiftp/CmdNOOP.java
+END
+CmdRETR.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/68/trunk/src/org/swiftp/CmdRETR.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/60/trunk/src/org/swiftp/Settings.java
+END
+FTPServerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/68/trunk/src/org/swiftp/FTPServerService.java
+END
+CmdUSER.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/68/trunk/src/org/swiftp/CmdUSER.java
+END
+UiUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/59/trunk/src/org/swiftp/UiUpdater.java
+END
+DedicatedWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/59/trunk/src/org/swiftp/DedicatedWriter.java
+END
+CmdQUIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/59/trunk/src/org/swiftp/CmdQUIT.java
+END
+CmdRNTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/59/trunk/src/org/swiftp/CmdRNTO.java
+END
+CmdRMD.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/59/trunk/src/org/swiftp/CmdRMD.java
+END
+Defaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/69/trunk/src/org/swiftp/Defaults.java
+END
+QuotaStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/60/trunk/src/org/swiftp/QuotaStats.java
+END
+CmdPORT.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/trunk/src/org/swiftp/CmdPORT.java
+END
+CmdOPTS.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/59/trunk/src/org/swiftp/CmdOPTS.java
+END
+ProxyDataSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/src/org/swiftp/ProxyDataSocketFactory.java
+END
+FtpCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/69/trunk/src/org/swiftp/FtpCmd.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/68/trunk/src/org/swiftp/Util.java
+END
+CmdPWD.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/68/trunk/src/org/swiftp/CmdPWD.java
+END
+CmdCDUP.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/60/trunk/src/org/swiftp/CmdCDUP.java
+END
+CmdSYST.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/59/trunk/src/org/swiftp/CmdSYST.java
+END
+MyLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/60/trunk/src/org/swiftp/MyLog.java
+END
+CmdPASS.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/64/trunk/src/org/swiftp/CmdPASS.java
+END
+CmdRNFR.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/59/trunk/src/org/swiftp/CmdRNFR.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/59/trunk/src/org/swiftp/Account.java
+END
+WidgetProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/73/trunk/src/org/swiftp/WidgetProvider.java
+END
+CmdSIZE.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/59/trunk/src/org/swiftp/CmdSIZE.java
+END
+ConfigureActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/68/trunk/src/org/swiftp/ConfigureActivity.java
+END
