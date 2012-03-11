@@ -1,2 +1,7 @@
 daflkdjkfljaksldjfklasdjfkljdaslkfjklsadjfklasjdkfjadslkf
+<<<<<<< HEAD
 dfllll
+=======
+ldlfladfl
+    
+>>>>>>> 90e232f3c65f7a046ab45f844b7fef79c259295b
